@@ -13,7 +13,7 @@ After successfully creating and quantizing the model, I wanted to evaluate the d
 - A model loaded in **full precision**
 - The same model loaded with **4-bit quantization**
 
-> Due to hardware limitations (16GB VRAM), all test prompts are limited to a maximum of **500 tokens**.
+> Due to hardware limitations (16GB VRAM), all test prompts were adjusted to a maximum of **500 tokens**.
 
 ---
 
